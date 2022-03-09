@@ -39,3 +39,5 @@ src="https://img.shields.io/twitter/follow/pabcumo?logo=twitter&style=for-the-ba
 <a href="http://www.github.com/pablocm90"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pablocm90&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/pablocm90"><img src="https://activity-graph.herokuapp.com/graph?username=pablocm90&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/pablocm90" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocm90&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&count_private=true&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
