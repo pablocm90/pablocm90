@@ -8,7 +8,7 @@ I have been coding since 2018. I am most comfortable in Ruby and JavaScript, alt
 
 * 🌍  I'm based in 🇫🇷 France
 * ✉️  You can contact me at [pablo.curell@hey.com](mailto:pablo.curell@hey.com)
-* 🚀  I'm currently working on [My blog](http://blog.codemanship.com)
+* 🚀  I'm currently working on [My blog](http://blog.codemanship.dev)
 * 🤝  I'm open to collaborating on Exciting projects or ideas with potential
 * ⚡  My slack game is on point
 
